@@ -1,0 +1,122 @@
+			#bigbox {
+				width: 100%;
+				height: 100%;
+				position: absolute;
+
+				background-image: url(../css/t01a270913aa36a14ff.jpg);
+			}
+
+			.leftb {
+				width: 803px;
+				height: 789px;
+				background-image: url(../css/151019oxVnCsCdLFWDMx0s.png);
+				border-radius: 107px;
+				position: absolute;
+				left: 2%;
+				top: 13%;
+			}
+
+			.cd {
+				width: 319px;
+				height: 319px;
+				background-image: url(../css/zxmzf.jpg);
+				position: absolute;
+				left: 219px;
+				top: 248px;
+				background-position: center center;
+				background-color: black;
+				border-radius: 50%;/* 圆角半径 */
+				background-repeat: no-repeat
+			}
+
+			.gif {
+				width: 88px;
+				height: 48px;
+				background-image: url(../css/yinfu.gif);
+				position: absolute;
+				left: 115px;
+				top: 200px;
+				background-repeat: no-repeat
+			}
+
+			.erji {
+				background-image: url(../css/erji.png);
+				width: 251px;
+				height: 409px;
+
+				background-repeat: no-repeat;
+				position: absolute;
+				left: 20px;
+			}
+
+			.rightb {
+				width: 450px;
+				height: 300px;
+				position: absolute;
+				left: 60%;
+				top: 20%
+			}
+
+			@font-face {
+				font-family: MD;
+				src: url(../MD.ttf);
+			}
+
+			h2 {
+				font-family: MD;
+				text-align: center;
+				font-size: 60px;
+				color: #ff4108;
+			}
+
+			.song {
+				width: 500px;
+				height: 330px;
+				background-image: url(../css/bg.png);
+				text-align: center;
+				overflow: auto;
+				/* 外溢文本 */
+			}
+
+			audio {
+				width: 500px;
+				height: 30px;
+			}
+
+			.m-top {
+				height: 70px;
+				width: 100%;
+				background: #242424;
+			}
+
+			ul {
+				margin: 0 auto;
+				list-style-type: none;
+			}
+
+			li {
+				float: left;
+				color: aliceblue;
+				line-height: 75px;
+				margin-left: 50px;
+				font-size: 17px;
+				color: azure;
+			}
+
+			.oneli {
+				font-size: 34px;
+				font-family: "楷体";
+			}
+
+			a:link {
+				color: azure;
+				text-decoration: none;
+			}
+
+			a:visited {
+				color: azure;
+			}
+
+			a:hover {
+				color: coral;
+			}
