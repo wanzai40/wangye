@@ -3,13 +3,13 @@
 				height: 100%;
 				position: absolute;
 
-				background-image: url(../css/t01a270913aa36a14ff.jpg);
+				background-image: url(./img/t01a270913aa36a14ff.jpg);
 			}
 
 			.leftb {
 				width: 803px;
 				height: 789px;
-				background-image: url(../css/151019oxVnCsCdLFWDMx0s.png);
+				background-image: url(./img/151019oxVnCsCdLFWDMx0s.png);
 				border-radius: 107px;
 				position: absolute;
 				left: 2%;
@@ -19,7 +19,7 @@
 			.cd {
 				width: 319px;
 				height: 319px;
-				background-image: url(../css/zxmzf.jpg);
+				background-image: url(./imgcss/zxmzf.jpg);
 				position: absolute;
 				left: 219px;
 				top: 248px;
@@ -32,7 +32,7 @@
 			.gif {
 				width: 88px;
 				height: 48px;
-				background-image: url(../css/yinfu.gif);
+				background-image: url(./img/yinfu.gif);
 				position: absolute;
 				left: 115px;
 				top: 200px;
@@ -40,7 +40,7 @@
 			}
 
 			.erji {
-				background-image: url(../css/erji.png);
+				background-image: url(./img/erji.png);
 				width: 251px;
 				height: 409px;
 
@@ -72,7 +72,7 @@
 			.song {
 				width: 500px;
 				height: 330px;
-				background-image: url(../css/bg.png);
+				background-image: url(./img/bg.png);
 				text-align: center;
 				overflow: auto;
 				/* 外溢文本 */
